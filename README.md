@@ -14,7 +14,9 @@ In the project directory, you can run:
 el cual es muy usado por Material UI, ionic y muchos otros que trabajan con componentes
 previamente creados que se pueden anidar entre si mediante HOCs (Higher Order Components)
 
-2-) En esta sección aprenderemos a darle el control a nuestro usuario o compañero de trabajo sobre las propiedades y estado de nuestro componente, usualmente este patrón es el que se utiliza de manera tradicional en formularios, es decir:
+2-) component step styles: poderle dar estilos a un componente propio mediante clases y la propiedad style
+
+3-) Controll Props En esta sección aprenderemos a darle el control a nuestro usuario o compañero de trabajo sobre las propiedades y estado de nuestro componente, usualmente este patrón es el que se utiliza de manera tradicional en formularios, es decir:
 
 <input
 value={ algún valor de solo lectura }
